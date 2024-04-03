@@ -1,0 +1,17 @@
+.box{
+    border: solid 10px;
+    border-color: cadetblue;
+    height: 800px;
+}
+.heading{
+    text-align: center;
+    color: black;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    margin-left: 550px;
+}
+.a{
+    margin-left: 450px;
+}
